@@ -1,2 +1,2 @@
-<CodeBlock language="bash">#!/bin/bash
-echo "Hello, Jenkins!"</CodeBlock>
+#!/bin/bash
+echo "Hello, Jenkins!"
